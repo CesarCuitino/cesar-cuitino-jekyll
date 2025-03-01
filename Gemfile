@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 
 # Este es el tema por defecto
-gem "minima", "~> 2.5"
+gem "jekyll-theme-cayman"
 
 # Plugins de Jekyll
 group :jekyll_plugins do
