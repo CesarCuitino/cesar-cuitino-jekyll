@@ -10,7 +10,7 @@ jobs:
       - name: Code Checkout
         uses: actions/checkout@v2
 
-      - name: Ruby Configuration
+      - name: Ruby Setup
         uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
